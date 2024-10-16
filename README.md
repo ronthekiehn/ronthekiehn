@@ -1,5 +1,5 @@
 ## ron the kiehn
 
-UChicago CS & Philosophy. VScode user. C, Python and Javascript. Svelte enjoyer and React understander.
+uchicago cs & philosophy. vscode user. c, python and javascript. svelte enjoyer and react understander.
 
 [ronkiehn.dev](ronkiehn.dev)
