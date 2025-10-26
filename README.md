@@ -1,6 +1,6 @@
 ## ron the kiehn
 
-special projects at lambda λ.  
+swe at lambda λ.  
 bs in cs & ba in philosophy from uchicago.  
 svelte enjoyer and react understander.
 
